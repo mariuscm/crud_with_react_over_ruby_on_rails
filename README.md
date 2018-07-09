@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Visit
 
-Things you may want to cover:
+https://www.pluralsight.com/guides/building-a-crud-interface-with-react-and-ruby-on-rails
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+to read the guide for creating this app.
